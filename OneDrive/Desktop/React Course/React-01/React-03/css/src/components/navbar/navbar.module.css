@@ -1,0 +1,22 @@
+.nav nav ul{
+    background-color: #67b3dc;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    
+}
+.nav nav ul li{
+    list-style: none;
+    margin: 0 10px;
+    
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+}
+.nav{
+    padding: 10px;
+    margin-bottom: 20px;
+}
